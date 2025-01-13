@@ -1,0 +1,9 @@
+[package]
+name = "erasure-coding"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+reed-solomon-erasure = "6.0.0"
+tiny-bip39 = "2.0.0"
+hex = "*"
